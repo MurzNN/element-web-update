@@ -1,6 +1,6 @@
 # element-web-update.sh
 
-This is a bash script that checks the new released version of [Element-web](https://element.io/) application from [official Github repo](https://github.com/vector-im/element-web) and if it differs from installed - updates the local files with deleting old version (to cleanup old files) and unpacking new one, but with keeping the config files by mask `config*.json`.
+This is a bash script that checks the new released version of [Matrix](http://matrix.org/) client [Element-web](https://element.io/) application from [official Github repo](https://github.com/vector-im/element-web) and if it differs from installed - updates the local files with deleting old version (to cleanup old files) and unpacking new one, but with keeping the config files by mask `config*.json`.
 
 You can put it to your `crontab.daily` and got an always fresh Element with forgetting about manual update routine.
 
