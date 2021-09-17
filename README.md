@@ -7,7 +7,7 @@ You can put it to your `crontab.daily` and got an always fresh Element with forg
 Also you can override variables using copy of `.env.example` file and place it with `.env` name in your launching directory, variables:
 
 - `DIRECTORY_INSTALL` - a directory to which Element files must be placed.
-- `DIRECTORY_TMP` - a directory to create subfolder for placing temporary downloaded files - it must be different than install directory!
+- `DIRECTORY_TMP` - a directory for placing temporary downloaded files - it must be different than install directory!
 - `VERSION_URL` - an url to repository for checking latest version number.
 
 ---
