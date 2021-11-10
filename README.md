@@ -20,7 +20,7 @@ Requirements:
 
 On Debian/Ubuntu Linx systems you can install all of them using command:
 ```
-sudo apt install jq curl curl 
+sudo apt install jq curl 
 ```
 Or similar way in other Linux systems.
 
