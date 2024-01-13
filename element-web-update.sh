@@ -17,7 +17,7 @@ DIRECTORY_INSTALL=~/public_html
 DIRECTORY_TMP=/tmp
 
 # Url to repo for check version
-VERSION_URL=https://api.github.com/repos/vector-im/element-web/releases/latest
+VERSION_URL=https://api.github.com/repos/element-hq/element-web/releases/latest
 
 if [ -f ".env" ]; then source .env; fi
 
